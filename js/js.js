@@ -1,7 +1,7 @@
 // mostrar mais da pagina
 $(function(){
 	$(".mostrar").click(function(){
-		$(".display-4").show(1000);
+		$("#complemento").show(1000);
 	});
 });
 // esconder a seta ao clicar

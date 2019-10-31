@@ -15,12 +15,8 @@ i{
   cursor: pointer;
 }
 /*mostrar mais em nos.html*/
-h1.display-4{
+#complemento{
 	display: none;
-}
-/*imagens dos funcionarios*/
-div img{
-	border-radius: 30px;
 }
 /* produtos escondidos em produtos.html*/
 .camisas_down, .tenis_down, .chuteiras_down, .society_down{

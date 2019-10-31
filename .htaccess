@@ -1,0 +1,3 @@
+<filesMatch ".(ico|jpg|jpeg|png|gif|swf|css|js)$">
+Header set Expires "Mon, 08 Jun 2020 20:00:00 GMT"
+</filesMatch>
